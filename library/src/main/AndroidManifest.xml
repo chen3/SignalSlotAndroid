@@ -1,6 +1,1 @@
-<manifest
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    package="cn.qiditu.library">
-
-    <application android:label="Library" />
-</manifest>
+<manifest package="cn.qiditu.library" />
