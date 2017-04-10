@@ -12,5 +12,5 @@ repositories {
 ```
 On moudle build.gradle, add depend
 ```
-compile 'cn.qiditu:signalslot:1.0'
+compile 'cn.qiditu:signalslot:1.0.1'
 ```
