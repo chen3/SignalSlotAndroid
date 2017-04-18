@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SignalSlot.iml" filepath="$PROJECT_DIR$/SignalSlot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/signalslot/signalslot.iml" filepath="$PROJECT_DIR$/signalslot/signalslot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signalslot-android/signalslot-android.iml" filepath="$PROJECT_DIR$/signalslot-android/signalslot-android.iml" />
     </modules>
   </component>
 </project>
