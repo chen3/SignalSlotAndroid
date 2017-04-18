@@ -1,1 +1,1 @@
-include ':signalslot'
+include ':signalslot-android'
